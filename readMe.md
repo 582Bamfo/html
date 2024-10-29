@@ -9,13 +9,12 @@
 ![kwahu](https://cloud-s3bucket.s3.eu-west-1.amazonaws.com/kwahu.jpg)
 
 --- ---
-|index.html|index.html1|index.html2|index.html4|
----         |  ---      | ---           ---
+|#index.html|#index.html1|#index.html2|#index.html4|
+-----------|-------------|------------|------------|
 |course-record|globaltech|globaltech|will consult|
 
-        |            |           |           |
 
-        
+
 - [ ] html1
 - [ ] html
 - [ ] html2
